@@ -10,7 +10,7 @@ import os
 import stat
 
 JOKE = (
-    "Monday is the only day my bed files a restraining order against me "
+    "Monday: my bed files a restraining order against me "
     "\u2014 and I still have to turn up for the hearing at 9am."
 )
 
